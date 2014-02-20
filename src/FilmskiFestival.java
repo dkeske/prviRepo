@@ -5,7 +5,8 @@ public class FilmskiFestival {
 	private int brojPosetilaca;
 
 	public String getNazivFestivala() {
-		return nazivFestivala;
+		return nazivFestivala; // jebem ga vise
+		
 	}
 
 	public void setNazivFestivala(String nazivFestivala) {

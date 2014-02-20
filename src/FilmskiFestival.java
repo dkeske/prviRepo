@@ -17,7 +17,7 @@ public class FilmskiFestival {
 	}
 
 	public String getMestoOdrzavanja() {
-		return mestoOdrzavanja;
+		return mestoOdrzavanja; //nista
 	}
 
 	public void setMestoOdrzavanja(String mestoOdrzavanja) {

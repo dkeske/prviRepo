@@ -29,7 +29,9 @@ public class SezonaFilmskihFestivala {
 			System.out.println("Greska: " + e.getMessage());
 		}
 	}
-
+	
+	public void nista() {
+}
 	public void dodajFestivalSaTastature() {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		try {
